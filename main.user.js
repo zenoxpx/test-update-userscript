@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Update UserScript
 // @namespace   https://github.com/zenoxpx/
-// @version     1.2.0
+// @version     1.2.1
 // @description UserScriptの自動更新テスト
 // @author      ZENO
 // @match       https://example.com
