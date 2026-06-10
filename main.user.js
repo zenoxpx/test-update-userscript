@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name    Update UserScript
-// @namespace https://github.com/zenoxpx/
-// @version 1.0.0
+// @name        Update UserScript
+// @namespace   https://github.com/zenoxpx/
+// @version     1.0.0
 // @description UserScriptの自動更新テスト
-// @author ZENO
-// @match https://example.com
-// @grant GM_info
+// @author      ZENO
+// @match       https://example.com
+// @updateURL   https://github.com/zenoxpx/test-update-userscript/raw/refs/heads/main/main.user.js
+// @grant       GM_info
 // ==UserScript==
 
 (function() {
