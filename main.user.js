@@ -5,7 +5,6 @@
 // @description UserScriptの自動更新テスト
 // @author      ZENO
 // @match       https://example.com
-// @updateURL   https://github.com/zenoxpx/test-update-userscript/raw/refs/heads/main/main.user.js
 // @grant       none
 // ==/UserScript==
 
