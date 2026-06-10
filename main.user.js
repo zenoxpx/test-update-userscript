@@ -6,7 +6,7 @@
 // @author      ZENO
 // @match       https://example.com
 // @updateURL   https://github.com/zenoxpx/test-update-userscript/raw/refs/heads/main/main.user.js
-// @grant       GM_info
+// @grant       none
 // ==/UserScript==
 
 (function() {
